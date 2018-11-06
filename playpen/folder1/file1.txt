@@ -1,0 +1,8 @@
+mkdir makes directory
+gedit makes text file
+cd changes working directory
+-r recursively
+ls list directories in working directory
+rm remove
+rmdir remove directory
+

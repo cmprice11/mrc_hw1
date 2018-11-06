@@ -1,0 +1,6 @@
+sandbox commands:
+
+gedit (filepath)/(filename.txt)				creates/opens file
+mkdir (filepath)/(dir name)				creates directory
+tree							displays full branches of dir
+
